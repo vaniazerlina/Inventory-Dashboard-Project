@@ -22,6 +22,8 @@ This project develops an end-to-end pipeline for analyzing and predict retail in
 
 * Used SQLAlchemy and psycopg2 to establish a connection with PostgreSQL.
 * Uploaded the processed tables (`fact_inventory`, `dim_product`, `dim_store`, `dim_date`) into a centralized data mart.
+  <img width="872" height="956" alt="schema inventory" src="https://github.com/user-attachments/assets/c5d944d1-092e-4daf-bac6-462baf3c3278" />
+
 
 ### 4. Predictive Modeling
 
